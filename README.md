@@ -1,6 +1,6 @@
 # CIS-5450-UPenn-Fall-2022
 
-Homework 1 deals with data wrangling and cleaning using pandas.
+Homework 1 deals with data wrangling and cleaning using pandas.(Data analysis to gauge the performance of various airline companies using pandas in python)
 
 Homework 2 deals with SQL(specifically pandasql) by exploring a Spotify dataset containing song reviews and statistics. We also conducted some text analysis of song reviews.
 
