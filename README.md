@@ -10,4 +10,3 @@ Homework 4 deals with Apache Spark ML and sci-kit learn to predict ratings of ne
 
 Homework 5 deals with Deep Learning using PyTorch to classify images in the CIFAR-10 dataset.
 
-Not all projects get full marks
